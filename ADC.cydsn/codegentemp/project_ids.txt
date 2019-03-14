@@ -1,0 +1,18 @@
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\Led.cydsn\Led.cyprj|57a1dfc1-c550-41a6-a40e-02641b30a5c1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|cefdb051-4ef5-4193-af2c-384a61e14b1d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f7987490-c0c5-46c2-8ba4-4671fc83b687
+C:\Users\jdrd3\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|3fea4028-a828-49dc-9898-a1ad178e787f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|14e62921-fa04-4c9b-8db9-2cd0ce30abf6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|17d89a3b-3b1a-4da2-a466-dea52224dec6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b0106a2d-7a46-48f6-846c-a04ceec90346
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\LCD.cydsn\LCD.cyprj|61d04fc0-2307-4f21-a724-7e21e2ebe75b
+D:\Nico\Archivos\lib_psoc\CharLCDmp_Demo3\CharLCDmpLib.cylib\CharLCDmpLib.cyprj|a99def03-32e4-4f38-baa9-b495063dcfad
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\PWM.cydsn\PWM.cyprj|3abeb23e-1469-4b64-8329-219b152c53ea
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\ADC.cydsn\ADC.cyprj|60e56ea0-a66d-4271-96b9-fef2eb4f9edf
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\Proto_carro_V0.1.cydsn\Proto_carro_V0.1.cyprj|dcbcc6f3-1d95-4a08-9017-2d1fc3e6f5d6
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\HC-SR04.cydsn\HC-SR04.cyprj|2b278e71-0281-44b7-b25e-6ade04df213c
+D:\Nico\Archivos\lib_psoc\CharLCDmpLib.cylib\CharLCDmpLib.cyprj|b2a54c98-24d8-489c-946e-e72f47a25777
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\Punte H.cydsn\Punte H.cyprj|d6901cf8-5165-410c-81b6-0b76ab7ea2ae
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\Sumo.cydsn\Sumo.cyprj|d7e6f069-2426-44d3-8385-d00eda353500
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\QRT-1RC.cydsn\QRT-1RC.cyprj|d8d15411-b489-4a6a-a72a-f7d023bd01ac
+C:\Users\jdrd3\Documents\PSoC Creator\Ejemplos\ADC_sharp.cydsn\ADC_sharp.cyprj|892b54c2-cffb-4cfd-98f0-3e7db2d46c95
